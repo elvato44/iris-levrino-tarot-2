@@ -14,7 +14,7 @@ declare global {
 
 export default function AmarreLandingClient() {
   const whatsappNumber = "+543513157439"
-  const whatsappMessage = "Hola, me interesa conocer más sobre sus Servicios. ¿Podrías orientarme?"
+  const whatsappMessage = "Quisiera más info acerca de sus servicios de TAROT"
 
   const trackWhatsAppClick = useCallback((buttonLocation: string) => {
     // Track with Meta Pixel
